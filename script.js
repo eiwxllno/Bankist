@@ -299,5 +299,5 @@ window.addEventListener('load', function (e) {
 });
 
 const newFeature = function () {
-  console.log('Welcome to the application');
+  console.log('Welcome to the Application');
 };
